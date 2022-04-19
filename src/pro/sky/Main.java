@@ -22,7 +22,7 @@ public class Main {
 
         // 3) bar mix
         int bananaWeight = 80;
-        double milkWeight = 100/105;
+        double milkWeight = 100f/105;
         int iceCreamWeight = 100;
         int eggWeight = 70;
 
